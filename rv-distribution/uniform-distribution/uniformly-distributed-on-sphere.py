@@ -2,6 +2,10 @@ import numpy as np
 import csv
 import matplotlib.pyplot as plt
 
+'''
+Reference : http://corysimon.github.io/articles/uniformdistn-on-sphere
+'''
+
 # Generate N random points
 N = 1000
 
